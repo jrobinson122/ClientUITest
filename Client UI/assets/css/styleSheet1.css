@@ -1,0 +1,219 @@
+.appyearinput {
+  position: relative;
+  top: 75px;
+  left: -85px;
+  width: 300px;
+  height: 45px;
+  background: rgba(255, 255, 255, 0.5);
+  border: 1px solid #000000;
+}
+
+.appyearheader {
+  position: relative;
+  top: 40px;
+  left: 28px;
+}
+
+.letterwriterfnameinput {
+  position: absolute;
+  top: 275px;
+  left: 28px;
+  width: 300px;
+  height: 45px;
+  background: rgba(255, 255, 255, 0.5);
+  border: 1px solid #000000;
+}
+
+.letterwriterheader {
+  position: absolute;
+  top: 250px;
+  left: 28px;
+}
+
+.letterwriterlnameinput {
+  position: absolute;
+  top: 275px;
+  left: 350px;
+  width: 300px;
+  height: 45px;
+  background: rgba(255, 255, 255, 0.5);
+  border: 1px solid #000000;
+}
+
+.letterwriterlastnameheader {
+  position: absolute;
+  top: 250px;
+  left: 350px;
+}
+
+.letterwriterEmailInput {
+  position: absolute;
+  top: 350px;
+  left: 350px;
+  width: 300px;
+  height: 45px;
+  background: rgba(255, 255, 255, 0.5);
+  border: 1px solid #000000;
+}
+
+.letterwriteremailheader {
+  position: absolute;
+  top: 325px;
+  left: 28px;
+}
+
+.letterwriterDepartmentinput {
+  position: absolute;
+  top: 350px;
+  left: 350px;
+  width: 300px;
+  height: 45px;
+  background: rgba(255, 255, 255, 0.5);
+  border: 1px solid #000000;
+}
+
+.letterwriterdeparmentheader {
+  position: absolute;
+  top: 325px;
+  left: 350px;
+}
+
+.LetterWriterAuthLabel {
+  position: absolute;
+  top: 445px;
+  left: 28px;
+}
+
+.WaiveRightsLabel {
+  position: absolute;
+  top: 520px;
+  left: 28px;
+}
+
+.SignOffLabel {
+  position: absolute;
+  top: 410px;
+  left: 28px;
+}
+
+.LetterWriterAuthCheckBox {
+  position: absolute;
+  top: 415px;
+  left: 650px;
+}
+
+.WaiveRightsIDoCheckbox {
+  position: absolute;
+  top: 500px;
+  left: 390px;
+}
+
+.WaiveRightsIDontCheckbox {
+  position: absolute;
+  top: 500px;
+  left: 500px;
+}
+
+.SignOffCheckbox {
+  position: absolute;
+  top: 525px;
+  left: 320px;
+}
+
+.IDoLabel {
+  position: absolute;
+  top: 495px;
+  left: 350px;
+}
+
+.IDontLabel {
+  position: absolute;
+  top: 495px;
+  left: 425px;
+}
+
+.PulledNameDataLabel {
+  position: absolute;
+  top: 145px;
+  left: 22px;
+}
+
+.PulledEmailDataLabel {
+  position: absolute;
+  top: 145px;
+  left: 100px;
+}
+
+.PulledTUIDDataLabel {
+  position: absolute;
+  top: 145px;
+  left: 275px;
+}
+
+.appdateInput {
+  position: absolute;
+  top: 205px;
+  left: 350px;
+  width: 300px;
+  height: 45px;
+  background: rgba(255, 255, 255, 0.5);
+  border: 1px solid #000000;
+}
+
+.PulledNameDataLabel {
+  position: absolute;
+  left: 1200px;
+  top: 20px;
+}
+
+.appdatelabel {
+  position: absolute;
+  top: 180px;
+  left: 350px;
+}
+
+#btnSubmitRequest {
+  position: absolute;
+  left: 50%;
+  top: 540px;
+}
+
+#approvedImg {
+  max-width: 15px;
+}
+
+#table {
+  margin-top: 45px;
+  margin-bottom: 0px;
+}
+
+.page-link {
+  color: black;
+}
+
+#body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+#footer {
+  margin-top: auto;
+}
+
+#container {
+  max-width: 15%;
+}
+
+form {
+  position: relative;
+}
+
+#uploadBtn-1 {
+  display: inline-block;
+}
+
+#confirmationMessageDiv {
+  visibility: hidden;
+}
+

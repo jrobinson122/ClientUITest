@@ -1,0 +1,85 @@
+.navbar-brand {
+}
+
+#btnEditEvent-1:hover {
+  color: #66B821;
+}
+
+#btnEditEvent-2:hover {
+  color: #66b821;
+}
+
+#btnEditEvent-3:hover {
+  color: #66b821;
+}
+
+#btnSearch-1:hover {
+  color: #66b821;
+}
+
+.btn:hover {
+  color: #66b821;
+}
+
+.btn:hover {
+  color: #66b821;
+}
+
+form {
+  position: relative;
+}
+
+#login-footer {
+  position: absolute;
+  bottom: 0px;
+}
+
+.footer {
+  /*position: absolute;*/
+  /*bottom: 0;*/
+}
+
+#conversion-footer {
+  position: absolute;
+  bottom: 0;
+}
+
+#Admin-Edit-Roles-Footer {
+  position: absolute;
+  bottom: 0;
+}
+
+#Admin-Presenter-Footer {
+  position: absolute;
+  bottom: 0;
+}
+
+#Admin-Roles-Footer {
+  position: absolute;
+  bottom: 0;
+}
+
+#Admin-topics-footer {
+  position: absolute;
+  bottom: 0;
+}
+
+#Admin-Add-Footer {
+  position: relative;
+  bottom: 0;
+}
+
+#Admin-Edit-Footer {
+  position: relative;
+  bottom: 0;
+}
+
+#Pagination {
+  position: absolute;
+  right: 580px;
+  bottom: -1050px;
+}
+
+#mainNav {
+}
+
